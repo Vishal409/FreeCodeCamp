@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@900&display=swap');
+        body{
+            background-color: rgb(17, 8, 8);
+        }
+        .header{
+            border: 1px solid black;
+            background-color:rgb(36, 35, 37);
+            margin-top: 20px;
+        }
+        #title{
+            text-align: center;
+            font-size: 60px;
+            font-family: Tourney;
+            color: white;
+        }
+        .byline{
+            text-align: center;
+            font-family: Tourney;
+            color: white;
+        }
+        #img-div{
+            border: 1px solid black;
+            margin: 20px 0 20px 0;
+            background-color: rgb(102, 82, 82);
+        }
+        #image{
+            border-color: black;
+            border-width: 4px;
+            border-style: solid;
+            border-radius: 20px;
+            display: block;
+            max-width: 50%;
+            margin: auto;
+            text-align: center;
+            width: 800px;
+        }
+        #img-caption{
+            text-align :center;
+            font-family: Tourney;
+            color: white;
+        }
+        #tribute-info{
+            Background-color: rgb(175, 175, 175);
+            border: 2px double black;
+        }
+        .heads{
+            text-align: center;
+        }
+        .death{
+            text-align: center;
+            font-family: Tourney;
+            color: rgb(0, 58, 219);
+        }
+        .footer{
+            background-color:white;
+            text-align: center;
+        }
+        #tribute-link{
+            text-align: center;
+            font-family: Tourney;
+            color: rgb(0, 58, 219);
+        }
+
+      
+
+    </style>
