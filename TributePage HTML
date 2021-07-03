@@ -1,0 +1,129 @@
+  <body>
+    <div id="main">
+      <div class = header>
+          <h1 id = "title">Paul Walker</h1>
+          <h3 class="byline">A ledgend Died Doing his favourite work</h3>
+      </div>
+      <div id = "img-div">
+          <img id ="image" src = "https://www.nme.com/wp-content/uploads/2021/06/Paul-Walker-in-The-Fast-Furious-2001-696x442.jpg"/>
+          <h3 id = "img-caption">Paul walker with his Toyota Supra (One of his most famous car)</h3>
+      </div>
+      <div id="tribute-info">
+          <h2 class = "heads">About Paul Walker</h2>
+          <p>Paul William Walker IV (September 12, 1973 - November 30, 2013) was an American actor. Walker began his career
+            guest-starring in several television shows such as The Young and the Restless and Touched by an Angel. Walker 
+            gained prominence with breakout roles in coming of age and teen films such as She's All That and Varsity Blues. 
+            In 2001, Walker gained international fame for his portrayal of Brian O'Conner in the street racing action film 
+            The Fast and the Furious, and would reprise the role in five of the next six installments. He also starred in films
+            such as Eight Below, Timeline, Into the Blue, Joy Ride and Running Scared.
+          </p>
+          <hr>
+          <h2 class = "heads">Paul's Personal Life</h2>
+          <p>
+            Walker was born in Glendale, California, and was the son of Cheryl (née Crabtree), a fashion model, and Paul William Walker 
+            III, a sewer contractor and a fighter who was a two-time Golden Gloves champion. Paul Walkers paternal grandfather had a boxing 
+            career as "'Irish' Billie Walker". Paul's ancestry was mostly English, with some German, Swiss, and Irish. One of his 
+            grandfathers raced factory cars for Ford in the 1960s. The oldest of five siblings, Walker was raised primarily in the Sunland
+            community of Los Angeles and attended high school in the San Fernando Valley, graduating from Sun Valley's Village Christian School
+            in 1991. He was raised as a member of The Church of Jesus Christ of Latter-day Saints. After high school, Walker attended several 
+            community colleges in Southern California, majoring in Marine Biology.
+         </p>
+            <hr>
+            <h2 class = "heads">Paul's Career</h2>
+            <p>
+                Walker's small-screen career began as a toddler, when he starred in a television commercial for Pampers. He began modeling 
+                at the age of 2 and began working on television shows in 1985, possessing roles in shows such as Highway to Heaven, Who's 
+                the Boss?, The Young and the Restless and Touched By an Angel.
+            </p>
+            <p>
+                Walker's film career began in 1987, with the horror/comedy film Monster in the Closet. He continued with roles in several 
+                other movies without much success. It wasn't until 1998 that Walker made his feature film debut in the comedy Meet the Deedles, 
+                which finally gained him fame. This subsequently led to supporting roles in the movies Pleasantville, Varsity Blues, 
+                She's All That, and The Skulls.
+            </p>
+            <p>
+                In 2001, Walker's breakthrough role arrived when he starred opposite actor Vin Diesel in the successful action film The Fast
+                and the Furious. The film established Walker as a notable film star and leading man and led to his reprisal of the role in 
+                the 2003 sequel 2 Fast 2 Furious. He continued his career with leading roles in films such as Joy Ride, Into the Blue, and 
+                Timeline, and also had a supporting role in Clint Eastwood's 2006 adaptation of Flags of Our Fathers.
+            </p>
+            <p>
+                Walker's most recent feature films are crime thriller Running Scared and Walt Disney Pictures' Eight Below, both released in 2006.
+                Eight Below garnered critical-acclaim and opened in first place at the box office, grossing over US$20 million during its first
+                weekend. During the filming of Running Scared, director Wayne Kramer stated that, " is that guy on some level but he’s not really"
+                comparing Walker with his character in the movie, Joey Gazelle. Kramer continued on to say that he "loved working with  because as
+                a director he’s completely supportive of my vision of what the film is. And even better, he’s completely game for it."
+            </p>
+            <p>
+                Walker starred in the independent film The Lazarus Project which was released on DVD on October 21, 2008. He has recently finished
+                the next film of The Fast and the Furious franchise, titled Fast & Furious, which is scheduled for release on April 3, 2009.
+                Walker has been cast opposite Matt Dillon and Hayden Christensen in the crime drama Takers, which began filming in early September
+                2008.
+            </p>
+            <hr>
+            <h2 class="heads">Some Interesting facts about Paul Walker</h2>
+            <ul>
+                <li>Paul started his small screen career as a toddler, when he starred in a commercial for Pampers in the 1970's.</li>
+                <li>Paul was a natural actor and started working in television in 1985 at the age of 11, appearing in " Highway to Heaven
+                    ", " Touched by an Angel ", " Throb " and others before moving on to the big screen.</li>
+                <li> "Monster in the Closet" was Paul's first movie and was released in 1986.</li>   
+                <li> Paul Walker majored in Marine Biology at the California community college, and was a huge fan of Marine Biologist Jacques-Yves
+                     Cousteau.</li> 
+                <li>Paul was always held in high regard and was close friends with his "Fast and Furious" co-star Tyrese Gibson. Vin Diesel considered 
+                    Paul to be like a brother, and affectionately called him "Pablo".</li> 
+                <li> Paul's father was a two-time "Golden Gloves" champion. His grandfather also had a boxing career as "Irish' Billie Walker".</li> 
+                <li>Paul had a brown belt in Brazilian jiu-jitsu</li> 
+                <li>Paul was an avid car enthusiast and competed in the Redline Time Attack racing series. He raced a BMW M3 E92 and was on the AE
+                     Performance Team.</li> 
+               <li>Vin Diesel named is daughter "Pauline" in memory of his co-star, friend and brother.</li>   
+               <li>Paul was known for having a huge heart and always helped people in any way he could.</li>        
+            </ul>
+            <hr>
+            <h2 class="heads">Death of the beloved Paul Walker</h2>
+            <p class="death">"If one day the speed kills me, don't cry. Because I was smiling."</p>
+            <p>On November 30, 2013, at approximately 3:30 p.m. PST, Walker and Roger Rodas, 38, left an event for Walker's charity Reach Out Worldwide
+                for victims of Typhoon Haiyan (Yolanda) in Rodas's red 2005 Porsche Carrera GT. The car crashed into a concrete lamppost and two trees
+                on Hercules Street, in a 45 miles per hour (72 km/h) speed zone near Kelly Johnson Parkway in Valencia, Santa Clarita, California, 
+                after which the vehicle burst into flames. The crash was caught on film by a security camera. Authorities determined that Rodas was 
+                driving the car while Walker was the passenger. The Los Angeles County Sheriff's Department declared both victims dead at the scene.
+                Rodas died of multiple traumatic injuries while Walker died from the combined effects of traumatic and thermal trauma, according to 
+                the Los Angeles County Coroner's office. Both of their bodies were burned beyond recognition.</p>
+            <p>The curve where Walker and Rodas were killed is a popular spot for drifting cars. The coroner's report stated that the 2005 Porsche Carrera
+                GT was traveling at a speed possibly as high as 100 miles per hour (160 km/h) before the crash. The coroner's report further stated that no
+                alcohol or other drugs were found in the systems of either man. Furthermore, it states that there were no hints of technical problems with 
+                the car and neither a damaged surface of the street nor parts on the street played a role in the crash. Police investigated as to whether 
+                drag racing played a role but were unable to find evidence of a second car's involvement. A piece of the car was stolen off the tow truck as
+                the wreckage was towed away on a flatbed. Two men, Jameson Brooks Witty and Anthony Janow, were arrested for grand theft.</p>
+            <p>
+                Walker's autopsy showed "scant soot" in his trachea, leading investigators to believe he died before the car was engulfed in fire,
+                where Rodaswas killed on or shortly after impact by head, neck, and chest trauma.
+                In March 2014, further investigation revealed that the speed of the car was the main reason for the crash. The car was said to be
+                traveling between 80 miles per hour (130 km/h) and 93 miles per hour (150 km/h) and had nine-year-old tires that were seldom driven on.
+                With Furious 7 in the middle of filming at the time of Walker's death, Universal announced an indeterminate hiatus on the production,
+                citing a desire to speak with his family before determining what to do with the film.
+                Numerous friends and movie stars posted tributes to Walker on social media. His body was cremated and his ashes were buried in a
+                non-denominational ceremony at Forest Lawn Memorial Park, Hollywood Hills.
+                In December 2014, Walker's father, Paul III, filed a lawsuit against Rodas's estate seeking the return of or "a proportionate share" 
+                of revenue generated by a group of automobiles that were jointly owned by both Walker and Rodas.
+            </p>  
+            <p>
+                In September 2015, Walker's daughter Meadow filed a suit against Porsche for wrongful death of her father, claiming that the Porsche 
+                Carrera GT had numerous design defects including a history of instability, and that seat belt placement can cause harm upon impact.
+                Porsche's response denied any wrongdoing and blamed Walker himself, stating: "The perils, risk, and danger were open and obvious and 
+                known to him, and he chose to conduct himself in a manner so as to expose himself to such perils, dangers, and risks, thus assuming
+                all the risks involved in using the vehicle." In April 2016, a U.S. District Court ruled in favor of Porsche in a separate lawsuit 
+                filed by Roger Rodas' widow, Kristine. The ruling has no bearing on two other cases against Porsche which have been filed by Walker's
+                father, who is also the executor of the actor's estate, and his daughter. Both are pending cases at the Los Angeles superior court.
+            </p>  
+      </div>
+      <div class="footer">
+        <p>If you want to know more about Paul Walker, visit his <a id ="tribute-link" href="http://remember-paul.com/" target="_blank">website</a>. </p>
+        <h3>Made By Vishal Kumar Singh</h3>
+        <h3>Made For Free Code Camp</h3>
+    
+    </div>
+    </div>
+  </body>
+
+
+</html>
